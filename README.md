@@ -1,2 +1,2 @@
 # Temperory
-Sep- A temporary Repository
+September- A temporary Repository
